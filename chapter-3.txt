@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Chapter 3 — The End Is Only The Beginning
 =======
 Chapter 3 - The end
 This is a sentence
 >>>>>>> b2d8c6d62c2e99fc58909a24f37d6ea293674bec
+=======
+Chapter 3 - The End Is Not The Ending-- But Only The Beginning
+>>>>>>> d4b9d3a791c4843497d7144b6a53c3ed51eb3ec3
